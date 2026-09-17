@@ -1,1 +1,1 @@
-# REPO_SEMANA6
+print ("hola bienbenido a la semana 6")
